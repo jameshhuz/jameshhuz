@@ -20,6 +20,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jameshhuz&show_icons=true&theme=dracula&title_color=eec144&text_color=5a5858&bg_color=ffffff&cache_seconds=1800&locale=es&layout=compact" alt="jameshhuz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jameshhuz&theme=default" alt="jameshhuz" /></p>
-
-
