@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate backend developer from Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameshhuz&label=Profile%20views&color=cc14bd&style=flat" alt="jameshhuz" /> </p>
 
